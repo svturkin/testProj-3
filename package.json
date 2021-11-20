@@ -1,0 +1,24 @@
+{
+  "name": "testproj-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svturkin/testProj-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svturkin/testProj-3/issues"
+  },
+  "homepage": "https://github.com/svturkin/testProj-3#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "got": "^11.8.3"
+  }
+}
